@@ -34,8 +34,6 @@
     },
     {
       "path": "./client"
-    },
-    {
-      "path": "./cypress"
-    }]
+    }
+  ]
 }
