@@ -59,6 +59,7 @@ MIT
 
 ## Credits and Sources
 ** Ike Byers ** - Primary Developer and Testing
+
 Sources:
 1. EdX Module 19 Activities - for initial file structuring and reference
 2. Cypress Documentation - for understanding the E2E and component testing flow
@@ -73,6 +74,8 @@ The component tests are written in Quiz.cy.jsx and ensure:
 	•	The user can select an answer and navigate to the next question.
 	•	The “Quiz Completed” screen appears after answering all 10 questions.
 	•	The score is displayed dynamically based on user answers.
+ 
+2. E2E Testing
 
 The E2E tests are written in quiz.cy.jsx and simulate a full user workflow:
 	•	Starting the quiz and answering randomized questions.
